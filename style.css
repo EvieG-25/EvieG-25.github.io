@@ -48,7 +48,8 @@ h1{
 }
 
 p{
-   color: #f2f2f2;
+   color: #f2f2f2;\
+   padding:5px;
 }
 
 #logo{
